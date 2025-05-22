@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ## My Skills: 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nodejs,py,django,cs,dotnet,unity,git,github,stackoverflow,linux,vscode&perline=6)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astakhiv&layout=compact&theme=tokyonight&cache_seconds=60)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astakhiv&layout=compact&theme=tokyonight)
 <div>
