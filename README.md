@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=6C42F5&center=true&vCenter=true&random=false&width=800&height=60&lines=Just+a+Guy)](https://git.io/typing-svg)
 
 ## My Skills: 
-[![My Skills](https://skillicons.dev/icons?i=vim,neovim,c,raspberrypi,linux,git,github,html,css,js,nodejs,npm,py,figma,notion&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,neovim,c,raspberrypi,linux,git,github,html,css,js,nodejs,npm,py,figma,notion&perline=5)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astakhiv&layout=compact&theme=tokyonight)
 <div>
